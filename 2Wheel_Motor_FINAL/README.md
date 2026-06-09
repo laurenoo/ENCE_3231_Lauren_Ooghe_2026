@@ -1,6 +1,9 @@
 
 # 2-Wheel Robot Design
 ## This project incorporates the use of program and design software such as STMCubeIDE and KiCad.
+## Introduction
+The main objective was to design and create a two-wheeled balancing robot using an STM32F401 microcontroller. All components were assembled to include soldering all components on the fabricated PCB, designing and cutting the acrylic chassis, and implementing test code for a 3-wheeled function to use for threshold testing.
+
 <img width="700" height="650" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
 <img width="700" height="650" alt="IMG_5721" src="https://github.com/user-attachments/assets/af5cb5f0-44ee-411d-9a42-b4c24b9322a0" />
 
@@ -9,7 +12,7 @@
 <img width="515" height="272" alt="SYS_DIAGRAM" src="https://github.com/user-attachments/assets/e23a1d34-e3d5-4994-9486-1e553ea9548b" />
 
 
-The main objective was to design and create a two-wheeled balancing robot using an STM32F401 microcontroller. All components were assembled to include soldering all components on the fabricated PCB, designing and cutting the acrylic chassis, and implementing test code for a 3-wheeled function to use for threshold testing. 
+ 
 
 ### Prototyping
 Once all components were verified working, such as the ESP8266 wifi chip, the motors, and the USB connection, the chassis was designed using OnShape CAD program to provide a drawing that could be used to verify part placement such as the PCB, motor mounts, battery pack, and front caster wheel. 
@@ -23,9 +26,6 @@ The 3-Wheel system is controlled by the use of an ESP8266 that provides a wifi s
 
 
 https://github.com/user-attachments/assets/3100aa6c-19b2-47c0-a776-326ca26b746c
-
-
-
 
 
 
