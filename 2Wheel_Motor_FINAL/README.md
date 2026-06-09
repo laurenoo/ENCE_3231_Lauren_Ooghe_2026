@@ -1,6 +1,6 @@
 # 2-Wheel Robot Design
 ## This projct incoporates the use of programming and design software such as STMCubeIDE and KiCad
-<img width="2673" height="2620" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
+<img width="2073" height="2020" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
 <img width="3003" height="3959" alt="IMG_5721" src="https://github.com/user-attachments/assets/af5cb5f0-44ee-411d-9a42-b4c24b9322a0" />
 
 ### Block Diagram and System Diagram
