@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d8993307-bcd7-4146-a1c4-31dde5542213
+
 # 2-Wheel Robot Design
 ## This project incorporates the use of program and design software such as STMCubeIDE and KiCad.
 <img width="700" height="650" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
@@ -31,6 +35,12 @@ https://github.com/user-attachments/assets/3100aa6c-19b2-47c0-a776-326ca26b746c
 
 
 Once the 3-wheeled task was completed, I was motivated to try to incorporate PID control to balance on two wheels. This introduced the encoder which was orignally to be an MT6701 but we were provided with an AS5600. The difference between these components is the address it uses to connect through I2C. I used Claude code to create a ".h" and ".c" file to include in the "main.c" program to initiate the encoder. Once this was accomplished, the code was written, tested, and verified. The testing consisted of finding the natural pitch recorded when the robot is balanced. This was used as the setpoint needed to determine whether the robot needs to correct forward or backward. Ultimately, the 2-wheel balanced was acheived but not perfected. 
+
+
+
+https://github.com/user-attachments/assets/a37571b3-f4c5-43bc-a98e-a4f5ce808e1f
+
+
 
 #### *** All PCB design materials are located in folder 2026_12_2Wheel_Balance_Robot_v1 2 ***
 PCB layout used from Dr. Martins provided layout
