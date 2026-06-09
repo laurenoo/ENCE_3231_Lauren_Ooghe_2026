@@ -1,5 +1,5 @@
 # 2-Wheel Robot Design
-## This projct incoporates the use of programming and design software such as STMCubeIDE and KiCad.
+## This project incorporates the use of programming and design software such as STMCubeIDE and KiCad.
 <img width="700" height="650" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
 <img width="700" height="650" alt="IMG_5721" src="https://github.com/user-attachments/assets/af5cb5f0-44ee-411d-9a42-b4c24b9322a0" />
 
@@ -8,6 +8,7 @@
 <img width="515" height="272" alt="SYS_DIAGRAM" src="https://github.com/user-attachments/assets/e23a1d34-e3d5-4994-9486-1e553ea9548b" />
 
 
-The main objective was to design and create a two-wheeled balancing robot using an STM32F401 microcontroller. All components were assembled to include soldering all components on the fabricated PCB, designing and cutting the acrylic chassis, and implementing test code for a 3-wheeled function.
+The main objective was to design and create a two-wheeled balancing robot using an STM32F401 microcontroller. All components were assembled to include soldering all components on the fabricated PCB, designing and cutting the acrylic chassis, and implementing test code for a 3-wheeled function to use for threshold testing. The 3-Wheel system is controlled by the use of an ESP8266 that provides a wifi signal (Access Point) to connect to a phone or tablet. The IP address is typed into the device and interfaces with the robot to perform manuevers such as forward, backward, left, right, or stop. The remote also recieves a stream of data that is updated every 100 ms such as pitch, roll, velocity, and a counter. 
+
 #### All PCB design materials are located in folder 2026_12_2Wheel_Balance_Robot_v1 2
 PCB layout used from Dr. Martins provided layout
