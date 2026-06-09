@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/d8993307-bcd7-4146-a1c4-31dde5542213
-
 # 2-Wheel Robot Design
 ## This project incorporates the use of program and design software such as STMCubeIDE and KiCad.
 <img width="700" height="650" alt="IMG_5727" src="https://github.com/user-attachments/assets/086b91ea-c3c8-439f-a0f1-8992509c93f3" />
