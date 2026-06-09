@@ -19,16 +19,14 @@ Once all components were verified working, such as the ESP8266 wifi chip, the mo
 
 <img width="584" height="464" alt="Screenshot 2026-06-08 at 7 30 15 PM" src="https://github.com/user-attachments/assets/57ee3094-a15a-4fc8-9c2c-2eb2f32f5af7" />
 
-Once the layout was verified with a 'dry fit', a .DXF file was then downloaded and used in the laser cutter to shape the acrylic chassis. 
+Once the layout was verified with a 'dry fit', a .DXF file was downloaded from the CAD software and used in the laser cutter to shape and cut the acrylic chassis. All components were mounted and the robot was ready for testing.
 
 ### Testing
 The 3-Wheel system is controlled by the use of an ESP8266 that provides a wifi signal (Access Point) to connect to a phone or tablet. The IP address is typed into the device and interfaces with the robot to perform manuevers such as forward, backward, left, right, or stop. The remote also receives a stream of data that is updated every 100 ms such as pitch, roll, velocity, and a counter. 
 
+<img width="603" height="1311" alt="IMG_5737" src="https://github.com/user-attachments/assets/3a0bd0db-daa6-461c-875e-eb4b80136832" />
 
 https://github.com/user-attachments/assets/3100aa6c-19b2-47c0-a776-326ca26b746c
-
-
-
 
 
 Once the 3-wheeled task was completed, I was motivated to try to incorporate PID control to balance on two wheels. This introduced the encoder which was orignally to be an MT6701 but we were provided with an AS5600. The difference between these components is the address it uses to connect through I2C. I used Claude code to create a ".h" and ".c" file to include in the "main.c" program to initiate the encoder. Once this was accomplished, the code was written, tested, and verified. The testing consisted of finding the natural pitch recorded when the robot is balanced. This was used as the setpoint needed to determine whether the robot needs to correct forward or backward. Ultimately, the 2-wheel balanced was acheived but not perfected. 
