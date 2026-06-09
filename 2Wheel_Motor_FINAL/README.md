@@ -17,7 +17,7 @@ The main objective was to design and create a two-wheeled balancing robot using 
 
  <img width="350" height="220" alt="PCB_LAYOUT" src="https://github.com/user-attachments/assets/59df63c5-cb81-443e-9675-41336429c2c0" />
 <img width="350" height="220" alt="PCB_3D" src="https://github.com/user-attachments/assets/310d4ae0-0ddd-448f-8e86-0cd55dc58786" />
-<img width="400" height="370" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/a2320a6b-887c-4aa2-84c1-be9037b0ee8f" />
+<img width="470" height="370" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/a2320a6b-887c-4aa2-84c1-be9037b0ee8f" />
 
 
 
