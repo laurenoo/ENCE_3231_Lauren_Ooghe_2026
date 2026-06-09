@@ -12,6 +12,7 @@ The main objective was to design and create a two-wheeled balancing robot using 
 <img width="515" height="272" alt="SYS_DIAGRAM" src="https://github.com/user-attachments/assets/e23a1d34-e3d5-4994-9486-1e553ea9548b" />
 
 
+ ### Design
  
 
 ### Prototyping
@@ -37,5 +38,5 @@ https://github.com/user-attachments/assets/a37571b3-f4c5-43bc-a98e-a4f5ce808e1f
 
 
 
-#### *** All PCB design materials are located in folder 2026_12_2Wheel_Balance_Robot_v1 2 ***
+#### *** All PCB design materials and images are located in folder 2026_12_2Wheel_Balance_Robot_v1 2 ***
 PCB layout used from Dr. Martins provided layout
