@@ -24,7 +24,7 @@ Once the layout was verified with a 'dry fit', a .DXF file was downloaded from t
 ### Testing
 The 3-Wheel system is controlled by the use of an ESP8266 that provides a wifi signal (Access Point) to connect to a phone or tablet. The IP address is typed into the device and interfaces with the robot to perform manuevers such as forward, backward, left, right, or stop. The remote also receives a stream of data that is updated every 100 ms such as pitch, roll, velocity, and a counter. 
 
-<img width="603" height="1311" alt="IMG_5737" src="https://github.com/user-attachments/assets/3a0bd0db-daa6-461c-875e-eb4b80136832" />
+<img width="300" height="700" alt="IMG_5737" src="https://github.com/user-attachments/assets/3a0bd0db-daa6-461c-875e-eb4b80136832" />
 
 https://github.com/user-attachments/assets/3100aa6c-19b2-47c0-a776-326ca26b746c
 
