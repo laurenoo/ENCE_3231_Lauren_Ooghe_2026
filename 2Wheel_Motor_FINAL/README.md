@@ -12,5 +12,5 @@ The main objective was to design and create a two-wheeled balancing robot using 
 
 Once the 3-wheeled task was completed, I was motivated to try to incorporate PID control to balance on two wheels. This introduced the encoder which was orignally to be an MT6701 but we were provided with an AS5600. The difference between these components is the address it uses to connect through I2C. I used Claude code to create a ".h" and ".c" file to include in the "main.c" program to initiate the encoder. Once this was accomplished, the code was written, tested, and verified. The testing consisted of finding the natural pitch recorded when the robot is balanced. This was used as the setpoint needed to determine whether the robot needs to correct forward or backward. Ultimately, the 2-wheel balanced was acheived but not perfected. 
 
-#### All PCB design materials are located in folder 2026_12_2Wheel_Balance_Robot_v1 2
+#### *** All PCB design materials are located in folder 2026_12_2Wheel_Balance_Robot_v1 2 ***
 PCB layout used from Dr. Martins provided layout
