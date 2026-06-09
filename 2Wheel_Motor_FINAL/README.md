@@ -13,7 +13,11 @@ The main objective was to design and create a two-wheeled balancing robot using 
 
 
  ### Design
- 
+ The PCB was designed in KiCAD and the images of layout and schematics can be seen below.
+
+ <img width="350" height="220" alt="PCB_LAYOUT" src="https://github.com/user-attachments/assets/59df63c5-cb81-443e-9675-41336429c2c0" />
+<img width="350" height="220" alt="PCB_3D" src="https://github.com/user-attachments/assets/310d4ae0-0ddd-448f-8e86-0cd55dc58786" />
+
 
 ### Prototyping
 Once all components were verified working, such as the ESP8266 wifi chip, the motors, and the USB connection, the chassis was designed using OnShape CAD program to provide a drawing that could be used to verify part placement such as the PCB, motor mounts, battery pack, and front caster wheel. 
